@@ -2,45 +2,61 @@
 title: Welcome to My Portfolio
 ---
 
+
 # 👋 Hi, I’m Ying-Hua Chung!
 
-Welcome to my personal site!  
-I use this space to showcase my interests, projects, and skills.
+**EIT Certification #171094, Minnesota**
+
+Engineer transitioning from telecom and academic research to **Power Systems Engineering**. Experienced in international proposals, modeling, simulation, and technical communication. Recently completed structured training in electric power systems and building load flow analysis models.
 
 ---
 
 ## 🌱 About Me
+## 🧩 Skills Snapshot
 
-- 🎓 **Education:** BS, National ChiaoTung University, 1994
-- 💼 **Current Interests:** Data Science, Power Engineering
-- 🧩 **Skills:** Python, JavaScript, Git, SQL
-- ✨ **Hobbies:** Open Source, Hiking
+- **Power Systems:** Steady-state load flow, short circuit analysis
+- **Tools & Languages:** Python, PyPSA, Pandas, NumPy, Matplotlib, Git
+- **Technical Communication:** Proposal development, advanced Excel, LaTeX
+- **Languages:** Bilingual in Chinese & English
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-Here are a few things I’ve worked on:
+- **IEEE 14-Bus Load Flow Simulation (in progress)**  
+  Building a Python-based model using PyPSA to simulate power flow, validate with open data, and visualize bus voltages and line loading.
 
-- **[Project 1 Title](#)**  
-  Short one-line description of what it does.
+- **Electric Power Systems – Online Lecture Series**  
+  Completed structured study in steady-state load flow, short circuit analysis, and control system concepts.
 
-- **[Project 2 Title](#)**  
-  Short one-line description of what it does.
+[See more projects →](./projects.md)
 
-- **[Project 3 Title](#)**  
-  Short one-line description of what it does.
+---
+
+
+## 🎓 Education (Highlights)
+
+- **Ph.D. in Chemistry**, The University of Iowa (Molecular Simulation)
+- **M.A. Biomedical Engineering**, The University of Iowa
+- **MBA**, National Chengchi University, Taiwan
+- **B.S. Mechanical Engineering**, National Chiao Tung University, Taiwan
+- **M.A. Teaching**, Hamline University (Licensure in Math & Physics)
+
+[More about my journey →](./about.md)
+
+
+- 💼 **Current Interests:** Data Science, Power Engineering
 
 ---
 
 ## 📫 Contact
 
-Feel free to connect with me:
+- [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)  
+- [GitHub](https://github.com/yinghua0)  
+- 📧 yourname@email.com
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [GitHub](https://github.com/yourusername)
-- 📧 youremail@example.com
+_View my [full resume](./resume.md) for details._
 
----
+
 
 _Thanks for visiting!_
