@@ -40,8 +40,7 @@ This shows how auction mechanisms help allocate a fixed supply efficiently when 
 ## ⚡ Now, What About Electricity?
 
 In a **deregulated wholesale electricity market**, the model works in the opposite direction:  
-- Instead of a fixed supply meeting flexible demand,  
-- The demand is forecasted and relatively fixed (in the short term),  
+- Instead of a fixed supply meeting flexible demand, the demand is forecasted and relatively fixed (in the short term),  
 - And generators compete to supply that demand at the lowest possible cost.
 
 Here, the **producers** benefit from the “extra” they earn when the clearing price is higher than their bid — this is called **producer surplus**.
