@@ -59,6 +59,15 @@ Load-serving entities (utilities, aggregators) submit their expected demand for 
 The market operator (like MISO) stacks the supply bids from lowest to highest cost — creating a **supply curve**.  
 Where that supply curve meets forecasted demand sets the **market clearing price**.
 
+## 📊 Example: Merit Order Dispatch
+
+Below is a simple example of how bids stack up:
+![Given Data](./assets/images/merit_order_data.png)
+![Merit Order Dispatch Curve](./assets/images/merit_order.png)
+
+*Figure: Generators are dispatched in order of increasing price until demand is met. The last unit needed sets the marginal price.*
+
+
 ✅ **Step 4: Dispatch**  
 Generators are dispatched in merit order, from lowest cost to highest, until demand is met.  
 All cleared generators are paid the **marginal price** — the bid of the last generator needed.
