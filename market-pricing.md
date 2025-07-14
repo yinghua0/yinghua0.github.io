@@ -95,5 +95,5 @@ Because the grid has transmission constraints and losses, the final price can va
 
 ## ✏️ What’s Next?
 
-📄 Next, let's explore **[cost structures](./market-costs.md)** like LCOE affect bidding strategies, and how different buyers respond to prices.
+📄 Next, let's explore **[cost structures](./cost-drivers.md)** like LCOE affect bidding strategies, and how different buyers respond to prices.
 [⬅ Back to Projects](./projects.md)
