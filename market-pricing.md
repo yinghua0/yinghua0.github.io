@@ -61,11 +61,14 @@ Where that supply curve meets forecasted demand sets the **market clearing price
 
 ## 📊 Example: Merit Order Dispatch
 
-Below is a simple example of how bids stack up:
-![Given Data](./assets/images/merit_order_data.png)
-![Merit Order Dispatch Curve](./assets/images/merit_order.png)
+> Below is a simple example of how bids stack up:
+>
+> ![Given Data](./assets/images/merit_order_data.png)
+>
+> ![Merit Order Dispatch Curve](./assets/images/merit_order.png)
+>
+> *Figure: Generators are dispatched in order of increasing price until demand is met. The last unit needed sets the marginal price.*
 
-*Figure: Generators are dispatched in order of increasing price until demand is met. The last unit needed sets the marginal price.*
 
 
 ✅ **Step 4: Dispatch**  
