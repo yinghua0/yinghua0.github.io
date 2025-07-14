@@ -20,7 +20,8 @@ Today, I’m applying my analytical, simulation, and technical communication ski
 
 From the start of my career, I’ve been driven by a curiosity for **how systems behave under constraints**, and how models and markets can balance efficiency with reliability.
 
-In my MBA program, I focused on the telecommunications industry and completed a term project on ISP pricing models — analyzing how bandwidth constraints and peak-hour demand relate to floating pricing and bidding. This concept is directly related to **congestion pricing in electricity markets** today.
+In my MBA program, I focused on the telecommunications industry and completed a term project on ISP pricing models — analyzing how bandwidth constraints and peak-hour demand relate to floating pricing and bidding. This concept is directly related to **congestion pricing and bidding mechanisms** used in electricity markets today — where supply constraints shape the [market clearing price](./market.md).
+
 
 After graduation, I worked as a **Market Planning Engineer** for a telecom manufacturer. There, I developed bid proposals for domestic tenders, aligning complex technical specifications with client requirements to secure procurement contracts. I also led the company’s debut at major global trade expos, coordinating cross-functional teams, marketing collateral, and international logistics.
 
