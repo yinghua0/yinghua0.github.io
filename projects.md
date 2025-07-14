@@ -41,6 +41,7 @@ Completed a structured, self-directed online course covering:
 ## 📝 Additional Experience (Selected)
 **Wholesale Power Markets:**
 - [How Bidding & Pricing Work in Wholesale Power Markets](./market-pricing.md)
+- [Cost Analysis & Market Price Drivers](./market-costs.md)
 
 **Proposal Development & International Logistics:**  
 Earlier in my career, I developed bid proposals for telecom tenders, coordinating technical specs and marketing materials for global trade expos (CeBIT Hannover, CommunicAsia). This work honed my cross-functional communication and documentation skills — still relevant when preparing technical reports for stakeholders.
