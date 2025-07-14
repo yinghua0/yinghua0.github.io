@@ -5,7 +5,7 @@ layout: default
 
 # ⚡ How Bidding & Pricing Work in Wholesale Power Markets
 
-Most people who’ve taken an intro economics class or AP Economics will remember drawing supply and demand curves to explain how prices adjust — the classic “invisible hand” of the market.
+Most people who’ve taken an intro economics class or AP Economics will remember drawing supply and demand curves to explain how prices adjust the quantities — the classic “invisible hand” of the market.
 
 Here, we’ll build on that familiar idea to explore how pricing works in **deregulated wholesale electricity markets**, with a warm-up example using something everyone understands: parking spaces!
 
