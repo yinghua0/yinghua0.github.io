@@ -4,6 +4,10 @@ Author: Your Name
 Description:
   Simple Python script to stack generator bids, meet demand,
   and find market clearing price.
+Notes:
+  The program sort the set of data with bid price correctly 
+  and give the market clearing price correctly.
+  But it wrongly shifts the supply curve to the right in plotting.
 """
 
 import pandas as pd
@@ -11,9 +15,9 @@ import matplotlib.pyplot as plt
 
 # 1️⃣ Example bid data: each generator's capacity and bid price
 data = {
-    'Generator': ['Gen A', 'Gen B', 'Gen C', 'Gen D'],
-    'Capacity_MW': [50, 100, 75, 80],
-    'Bid_Price_per_MWh': [20, 25, 30, 40]
+    'Generator': ['Gen A', 'Gen B', 'Gen C', 'Gen D', 'Gen E'],
+    'Capacity_MW': [50, 100, 75, 80, 20],
+    'Bid_Price_per_MWh': [20, 25, 30, 40, 22]
 }
 
 df = pd.DataFrame(data)
@@ -43,6 +47,7 @@ plt.step(
     where='post',
     label='Supply Stack'
 )
+
 plt.axvline(x=demand, color='red', linestyle='--', label='Demand')
 plt.axhline(y=market_clearing_price, color='green', linestyle='--', label='Clearing Price')
 
