@@ -69,7 +69,7 @@ Where that supply curve meets forecasted demand sets the **market clearing price
 >
 > *Figure: Generators are dispatched in order of increasing price until demand is met. The last unit needed sets the marginal price.*
 
-
+> - [Merit Order Dispatch Demo (Python)](./scripts/merit_order_demo.py)
 
 ✅ **Step 4: Dispatch**  
 Generators are dispatched in merit order, from lowest cost to highest, until demand is met.  
