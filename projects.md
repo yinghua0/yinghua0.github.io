@@ -40,6 +40,7 @@ Completed a structured, self-directed online course covering:
 
 ## 📝 Additional Experience (Selected)
 **Wholesale Power Markets:**
+- [The Big Picture of Wholesale Electricity Markets](./zoom_out.md)
 - [How Bidding & Pricing Work in Wholesale Power Markets](./market-pricing.md)
 - [Cost Analysis & Market Price Drivers](./cost-drivers.md)
 
