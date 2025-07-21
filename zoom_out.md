@@ -18,7 +18,7 @@ To manage these risks, market participants can use financial instruments called 
 
 ---
 ## Useful links:
-<a href="https://www.youtube.com/watch?v=dYvEG3uQzsQ" target="_blank">Understanding Basics of the Power Market</a></n>
+<a href="https://www.youtube.com/watch?v=dYvEG3uQzsQ" target="_blank">Understanding Basics of the Power Market</a>
 
  [market clearing price](./market-pricing.md)
 

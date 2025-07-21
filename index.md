@@ -48,6 +48,9 @@ Engineer transitioning from telecom and academic research to **Power Systems Eng
 - 💼 **Current Interests:** Data Science, Power Engineering
 
 ---
+## Publications
+[Link](./publications.md)
+---
 
 ## 📫 Contact
 

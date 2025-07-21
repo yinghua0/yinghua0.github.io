@@ -38,7 +38,7 @@ Today, I’m applying this diverse background to **electric power systems** and 
 - **EIT Certified** — #171094, Minnesota (Effective 5/21/2025)
 - Completed **Electric Power Systems Online Lecture Series**, studying steady-state load flow and short circuit analysis.
 - Currently developing an **IEEE 14-Bus Load Flow Simulation** using PyPSA.
-- Published multiple peer-reviewed papers in computational chemistry.
+- Published multiple peer-reviewed papers in computational chemistry. [Link](./publications.md)
 - Fluent in Chinese and English; experienced working across cultures.
 
 ---
