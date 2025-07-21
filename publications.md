@@ -1,3 +1,8 @@
+---
+title: Publications
+layout: default
+---
+
 1. Site-specific Identification of Lys Acetylation Stoichiometry in Mammalian Cells, Ying-Hua Chung*, Tong Zhou*, Jianji Chen, Yue Chen, Journal of Proteome Research, 15(3):1103-13, 2016 (*: equal contribution) (proposed a new quantitative method.) 
 2. RevErba Preferentially Deforms DNA by Induced Fit, Ying-Hua Chung, Arjan van der Vaart, ChemBioChem, 15 (5), 625 – 630, 2014 (cover article) 
 3. Free Energy Simulation of Helical Transitions. Ning Ma*, Ying-Hua Chung*, Arjan van der Vaart, Journal of Computational Chemistry, 34 (8), 640 – 645, 2013 (*: equal contribution) (proposed a new enhanced sampling method) 
