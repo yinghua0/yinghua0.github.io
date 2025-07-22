@@ -19,7 +19,8 @@ I’m building a Python-based power flow model of the standard IEEE 14-bus test 
 
 **Tools:** PyPSA, Python, Pandas, NumPy, Matplotlib
 
-📂 _Source code will be shared on GitHub once the core results are validated._  
+📂 _Source code will be shared on GitHub once the core results are validated._
+_Expected completion: August 5, 2025._
 _(You could link to your repo here later: [View code →](https://github.com/yourusername/14bus-loadflow))_
 
 ---
