@@ -54,9 +54,9 @@ Engineer transitioning from telecom and academic research to **Power Systems Eng
 
 ## 📫 Contact
 
-- [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)  
+- [LinkedIn](https://www.linkedin.com/in/ying-hua-chung-7175362a/)  
 - [GitHub](https://github.com/yinghua0)  
-- 📧 yourname@email.com
+- 📧 yhben.chung@email.com
 
 _View my [full resume](./resume.md) for details._
 
